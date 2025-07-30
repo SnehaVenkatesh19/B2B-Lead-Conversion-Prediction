@@ -64,8 +64,6 @@ From feature importance and SHAP analysis, we found that the strongest predictor
 
 ##  Next Steps
 
-This project focused on training and evaluating a lead scoring model to identify high-potential leads based on past data. Here are a few recommended next steps to expand its practical utility:
-
  Streamlit Web App (UI Integration)
    - Build a lightweight Streamlit app that allows users to input new lead details and get real-time predictions on conversion likelihood.
    - Useful for sales reps and marketing teams who want instant insights without technical expertise.
