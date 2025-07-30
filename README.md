@@ -55,10 +55,10 @@ From feature importance and SHAP analysis, we found that the strongest predictor
 - **Occupation** – working professionals showed higher conversion rates
 
  Feature Importance (Random Forest)  
-![Feature Importance](feature_importance.png)
+![Feature Importance](/feature_importance.png)
 
  SHAP Summary Plot (XGBoost)  
-![SHAP Summary](images/shap.png)
+![SHAP Summary](/shap.png)
 
 ---
 
